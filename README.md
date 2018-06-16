@@ -1,4 +1,4 @@
-<h2>Trending Mart- ECommerce React Web App</h2> 
+<h2>Trending Mart- ECommerce React Web App:iphone: </h2> 
 A full fledge React Web App made for general purpose where you find your dreams of products.
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
