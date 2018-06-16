@@ -1,4 +1,5 @@
-<h2>Trending Mart- ECommerce React Web App</h2> [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+<h2>Trending Mart- ECommerce React Web App</h2> 
+Awesome README [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A full fledge react PWA made for general purpose where you find your dreams of products.
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
